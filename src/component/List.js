@@ -2,7 +2,9 @@
 const List =(props)=>{
     return(
         <li>
-            <ul>sss</ul>
+            <ul>Sakshi</ul>
+            <ul>Komal</ul>
+            <ul>Rutuja</ul>
         </li>
     )
 }
