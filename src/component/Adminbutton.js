@@ -1,4 +1,3 @@
-
 const Button =(props)=>{
     return(
         <button>Login</button>
@@ -6,4 +5,4 @@ const Button =(props)=>{
     )    
 }
 
-export default Button;                 
+export default Button;  
